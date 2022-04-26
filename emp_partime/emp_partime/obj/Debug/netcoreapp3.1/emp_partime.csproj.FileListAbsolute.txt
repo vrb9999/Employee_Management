@@ -1,0 +1,14 @@
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.exe
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.deps.json
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.runtimeconfig.json
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.runtimeconfig.dev.json
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.dll
+E:\emp_partime\emp_partime\bin\Debug\netcoreapp3.1\emp_partime.pdb
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.csproj.AssemblyReference.cache
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.GeneratedMSBuildEditorConfig.editorconfig
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.AssemblyInfoInputs.cache
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.AssemblyInfo.cs
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.csproj.CoreCompileInputs.cache
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.dll
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.pdb
+E:\emp_partime\emp_partime\obj\Debug\netcoreapp3.1\emp_partime.genruntimeconfig.cache
